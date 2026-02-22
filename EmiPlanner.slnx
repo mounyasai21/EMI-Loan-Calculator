@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EmiPlanner.Api/EmiPlanner.Api.csproj" />
+  <Project Path="EmiPlanner.Web/EmiPlanner.Web.csproj" />
+</Solution>

@@ -1,0 +1,6 @@
+@EmiPlanner.Api_HostAddress = http://localhost:5014
+
+GET {{EmiPlanner.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
