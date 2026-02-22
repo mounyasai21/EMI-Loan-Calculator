@@ -207,9 +207,6 @@ C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\bin\Debug\net10.0\wwwroot
 C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\bin\Debug\net10.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat
 C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\bin\Debug\net10.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat
 C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\bin\Debug\net10.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat
-C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\bin\Debug\net10.0\wwwroot\_framework\EmiPlanner.Web.y95z5fw7qs.wasm
-C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\bin\Debug\net10.0\wwwroot\_framework\EmiPlanner.Web.p6dc3pg7i9.pdb
-C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\bin\Debug\net10.0\wwwroot\_framework\dotnet.x37ow9c8uk.js
 C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\bin\Debug\net10.0\wwwroot\_framework\blazor.webassembly.66stpp682q.js.gz
 C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\bin\Debug\net10.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.3ur142rhlk.wasm.gz
 C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\bin\Debug\net10.0\wwwroot\_framework\Microsoft.AspNetCore.Components.ld1j2d23tn.wasm.gz
@@ -418,9 +415,6 @@ C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\bin\Debug\net10.0\wwwroot
 C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\bin\Debug\net10.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat.gz
 C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\bin\Debug\net10.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat.gz
 C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\bin\Debug\net10.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat.gz
-C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\bin\Debug\net10.0\wwwroot\_framework\EmiPlanner.Web.y95z5fw7qs.wasm.gz
-C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\bin\Debug\net10.0\wwwroot\_framework\EmiPlanner.Web.p6dc3pg7i9.pdb.gz
-C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\bin\Debug\net10.0\wwwroot\_framework\dotnet.x37ow9c8uk.js.gz
 C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\bin\Debug\net10.0\EmiPlanner.Web.staticwebassets.runtime.json
 C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\bin\Debug\net10.0\EmiPlanner.Web.staticwebassets.endpoints.json
 C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\bin\Debug\net10.0\EmiPlanner.Web.dll
@@ -852,7 +846,6 @@ C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\obj\Debug\net10.0\scopedc
 C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\obj\Debug\net10.0\EmiPlanner.Web.genruntimeconfig.cache
 C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\obj\Debug\net10.0\blazor.build.boot-extension.json
 C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\obj\Debug\net10.0\dotnet.js
-C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\obj\Debug\net10.0\staticwebassets\htmlassetplaceholders\build\0r38fgr5za.html
 C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\obj\Debug\net10.0\compressed\f9o902iofb-{0}-99zm1jdh75-99zm1jdh75.gz
 C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\obj\Debug\net10.0\compressed\nfvd54c3it-{0}-nk9bgqz024-nk9bgqz024.gz
 C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\obj\Debug\net10.0\compressed\ihsczn983d-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -1110,10 +1103,6 @@ C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\obj\Debug\net10.0\compres
 C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\obj\Debug\net10.0\compressed\h1zt59loey-{0}-tjcz0u77k5-tjcz0u77k5.gz
 C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\obj\Debug\net10.0\compressed\s6ya9invlm-{0}-tptq2av103-tptq2av103.gz
 C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\obj\Debug\net10.0\compressed\fhlg0wk2t3-{0}-lfu7j35m59-lfu7j35m59.gz
-C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\obj\Debug\net10.0\compressed\m6jzmd8d1r-{0}-y95z5fw7qs-y95z5fw7qs.gz
-C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\obj\Debug\net10.0\compressed\52qe3sx0ii-{0}-p6dc3pg7i9-p6dc3pg7i9.gz
-C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\obj\Debug\net10.0\compressed\gzz16buwn5-{0}-x37ow9c8uk-x37ow9c8uk.gz
-C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\obj\Debug\net10.0\compressed\8jswbqi40c-{0}-yxzl4kemrl-yxzl4kemrl.gz
 C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\obj\Debug\net10.0\staticwebassets.development.json
@@ -1124,3 +1113,14 @@ C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\obj\Debug\net10.0\EmiPlan
 C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\obj\Debug\net10.0\refint\EmiPlanner.Web.dll
 C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\obj\Debug\net10.0\EmiPlanner.Web.pdb
 C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\obj\Debug\net10.0\ref\EmiPlanner.Web.dll
+C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\bin\Debug\net10.0\wwwroot\_framework\EmiPlanner.Web.jmr4xtkctw.wasm
+C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\bin\Debug\net10.0\wwwroot\_framework\EmiPlanner.Web.xtcqnd4nm8.pdb
+C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\bin\Debug\net10.0\wwwroot\_framework\dotnet.6xb2qhb1pb.js
+C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\bin\Debug\net10.0\wwwroot\_framework\EmiPlanner.Web.jmr4xtkctw.wasm.gz
+C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\bin\Debug\net10.0\wwwroot\_framework\EmiPlanner.Web.xtcqnd4nm8.pdb.gz
+C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\bin\Debug\net10.0\wwwroot\_framework\dotnet.6xb2qhb1pb.js.gz
+C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\obj\Debug\net10.0\EmiPlanner.Web.sourcelink.json
+C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\obj\Debug\net10.0\compressed\m6jzmd8d1r-{0}-jmr4xtkctw-jmr4xtkctw.gz
+C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\obj\Debug\net10.0\compressed\52qe3sx0ii-{0}-xtcqnd4nm8-xtcqnd4nm8.gz
+C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\obj\Debug\net10.0\compressed\gzz16buwn5-{0}-6xb2qhb1pb-6xb2qhb1pb.gz
+C:\Users\chiduralas\Desktop\EMI_PROJECT\EmiPlanner.Web\obj\Debug\net10.0\compressed\l5n2nd5twb-{0}-siyl9u22d1-siyl9u22d1.gz

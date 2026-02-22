@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmiPlanner.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f664b317bc03e9a071c135f6e3250d2c5d24a128")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmiPlanner.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmiPlanner.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

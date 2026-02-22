@@ -4,31 +4,75 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>EmiPlanner.Web</title>
+    <title>EMI Planner</title>
     <base href="/" />
-    <link rel="preload" id="webassembly" />
     <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="css/app.css" />
     <link rel="icon" type="image/png" href="favicon.png" />
     <link href="EmiPlanner.Web.styles.css" rel="stylesheet" />
-    <script type="importmap"></script>
 </head>
 
-<body>
-    <div id="app">
-        <svg class="loading-progress">
-            <circle r="40%" cx="50%" cy="50%" />
-            <circle r="40%" cx="50%" cy="50%" />
-        </svg>
-        <div class="loading-progress-text"></div>
+<body class="bg-light">
+
+    <!-- EMI Calculator UI -->
+    <div class="container mt-5">
+        <div class="card shadow p-4">
+            <h2 class="text-center mb-4">EMI Calculator</h2>
+
+            <div class="mb-3">
+                <input id="principal" class="form-control" placeholder="Principal Amount" />
+            </div>
+
+            <div class="mb-3">
+                <input id="rate" class="form-control" placeholder="Interest Rate (%)" />
+            </div>
+
+            <div class="mb-3">
+                <input id="tenure" class="form-control" placeholder="Tenure (months)" />
+            </div>
+
+            <div class="mb-3">
+                <input id="income" class="form-control" placeholder="Monthly Income" />
+            </div>
+
+            <button class="btn btn-primary w-100" onclick="calculateEmi()">
+                Calculate EMI
+            </button>
+
+            <h4 class="text-center mt-4" id="result"></h4>
+        </div>
     </div>
+
+    <!-- Blazor App (kept intact) -->
+    <div id="app" style="display:none"></div>
 
     <div id="blazor-error-ui">
         An unhandled error has occurred.
         <a href="." class="reload">Reload</a>
         <span class="dismiss">🗙</span>
     </div>
-    <script src="_framework/blazor.webassembly#[.{fingerprint}].js"></script>
+
+    <script>
+        async function calculateEmi() {
+            const data = {
+                principal: Number(document.getElementById("principal").value),
+                rate: Number(document.getElementById("rate").value),
+                tenure: Number(document.getElementById("tenure").value),
+                income: Number(document.getElementById("income").value)
+            };
+
+            const response = await fetch("http://localhost:5014/api/Loan", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify(data)
+            });
+
+            const result = await response.json();
+            document.getElementById("result").innerText =
+                "Your EMI is ₹ " + result.emi;
+        }
+    </script>
+
 </body>
 
 </html>
